@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sabor a eternidad, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Sabor a eternidad, Vol. 2** (sabor-a-eternidad-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T20:33:43.178408 | `v1` | `264c28814d75defdf8db1144f2ee01851ef92108ee3975a497bc039cf9ad0a0c` | `a2525f244d802de242ae588b18287f57e1529665373e7097e31e6d5b9d3c6570` | `2026-06-20_sabor-a-eternidad-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -1,4 +1,4 @@
-# Sabor a eternidad
+# Sabor a eternidad, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Sabor a eternidad |
+| **Title** | Sabor a eternidad, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabor-a-eternidad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Sabor a eternidad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-a-eternidad/) |
+| **Get License** | [Official Music Licensing for Sabor a eternidad, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-a-eternidad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche tú te vas conmigo, nena, no hay salida
+> Me tienes adicto a tu cuerpo, tú eres mi bebida
+> Con ese flow de Barcelona me robas la vida
+> Solo dame un beso lento, sana esta herida
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `264c28814d75defdf8db1144f2ee01851ef92108ee3975a497bc039cf9ad0a0c` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
